@@ -8,4 +8,4 @@
 -Numpy                                         1.15.4
 # Output
 
-![alt text](https://github.com/renoagilsaputra/bresenham-circle-drawing-algorithm/blob/master/output/output.png "Output")
+![alt text](https://github.com/renoagilsaputra/heart-shape-pyopengl/blob/master/output/output.png "Output")
